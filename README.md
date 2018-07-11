@@ -2,11 +2,10 @@
 
 
 Machine learning based web application for automatic detection and prediction of leaf and diseases in grapes.
-METHODOLOGY:
+
+
 Image Preprocessing
 Image is pre-processed to improve the image Pre-processing includes color conversion, histogram, and histogram equalization. Color conversion and histogram equalization is used to improve the quality and clarity images. Grayscale images are easy to process in any application because they have only intensity values. The histogram equalization enhances the contrast of images by transforming the intensity values. 
-
-
 
 Image Segmentation
 	Image segmentation is typically used to locate objects and boundaries.
